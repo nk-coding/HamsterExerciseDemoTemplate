@@ -3,7 +3,7 @@
 
 	<groupId>de.unistuttgart.iste.rss.oo.hamstersimulator</groupId>
 	<artifactId>exercise00</artifactId>
-	<name>Hamster Simulator Root Project</name>
+	<name>The Hamster Exercise Template</name>
     <version>1.0.0</version>
 
 	<properties>
