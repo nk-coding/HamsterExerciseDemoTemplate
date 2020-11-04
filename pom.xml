@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.unistuttgart.iste.rss.oo.hamstersimulator</groupId>
-	<artifactId>exercise00</artifactId>
+	<artifactId>HamsterExerciseDemoTemplate</artifactId>
 	<name>The Hamster Exercise Template</name>
     <version>1.0.0</version>
 
 	<properties>
-		<hamster.version>2.2.6-1-TOHSPANS</hamster.version>
+		<hamster.version>2.2.6-2-TOHSPANS</hamster.version>
     </properties>
 
 	<repositories>
