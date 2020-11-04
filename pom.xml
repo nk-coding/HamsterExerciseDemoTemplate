@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>de.unistuttgart.iste.rss.oo.hamstersimulator</groupId>
-	<artifactId>HamsterExerciseDemoTemplate</artifactId>
+	<artifactId>assignment</artifactId>
 	<name>The Hamster Exercise Template</name>
     <version>1.0.0</version>
 
